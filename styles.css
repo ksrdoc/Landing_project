@@ -6,13 +6,14 @@
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
-}
-header footer .container1 {
-    background-color: #1F2937;
+    font-family: Roboto, sans-serif;
+    display: flex;
+    flex-direction: column;
 }
 
-.headerlogo {
-    font-size: 24px;
-}
+/* HEADER */
+
+
+
+
 
