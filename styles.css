@@ -48,7 +48,7 @@ header {
 .container1 {
     display: flex;
     flex-direction: row;
-    justify-content:space-between;
+    justify-content:center;
     align-items: center;
     padding-top: 150px;
     padding-bottom: 150px;
@@ -90,7 +90,7 @@ header {
     width: 50vh;
     justify-content: center;
     align-self: center;
-    background-color: rgba(138, 137, 137, 0.452);
+    background-color:rgba(189, 189, 189, 0.952);
 }
 
 
