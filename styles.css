@@ -150,3 +150,20 @@ header {
     padding: 120px;
 }
 
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    width: 800px;
+    text-align: left;
+}
+
+.author {
+    color: #1F2937;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: right;
+    width: 800px;
+}
+
