@@ -117,7 +117,7 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    gap: 60px;
+    gap: 70px;
     flex-wrap: wrap;
 }
 
@@ -127,5 +127,12 @@ header {
     width: 150px;
     text-align:center;
     color: gray;
+    align-items: center;
+    gap: 8px;
 }
 
+.image {
+    padding: 90px;
+    border: #3882F6 solid 4px;
+    border-radius: 20px;
+}
