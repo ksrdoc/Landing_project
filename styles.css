@@ -139,5 +139,14 @@ header {
     border-radius: 20px;
 }
 
+/* CONTAINER 3 - Quote section */
 
+.container3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 120px;
+}
 
