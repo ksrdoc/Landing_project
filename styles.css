@@ -106,16 +106,6 @@ header {
     align-items: center;
 }
 
-.information {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    gap: 50px;
-    flex-wrap: wrap;
-}
-
-
-
 .information_header {
     margin: 50px;
     font-size: 36px;
@@ -126,5 +116,16 @@ header {
 .information {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    gap: 60px;
+    flex-wrap: wrap;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    text-align:center;
+    color: gray;
 }
 
