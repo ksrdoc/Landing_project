@@ -106,10 +106,25 @@ header {
     align-items: center;
 }
 
+.information {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+
+
 .information_header {
     margin: 50px;
     font-size: 36px;
     font-weight: 800;
     color: #1F2937;
+}
+
+.information {
+    display: flex;
+    flex-direction: row;
 }
 
