@@ -167,3 +167,23 @@ header {
     width: 800px;
 }
 
+/* CONTAINER 4 - Call to action */
+
+.container4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.call_to_action {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 150px;
+    padding: 50px 160px;
+    margin: 100px;
+    background: #3882F6;
+    border-radius: 20px;
+}
+
