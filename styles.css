@@ -198,3 +198,14 @@ header {
     font-size: 20px;
 }
 
+.signup2 {
+    color: #F9FAF8;
+    font-weight: 700;
+    background-color: #3882F6;
+    padding: 0px 24px;
+    border-radius: 8px;
+    border-color: #F9FAF8;
+    border-style: solid;
+    font-size: 16px;
+}
+
