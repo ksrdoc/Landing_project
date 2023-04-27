@@ -209,3 +209,17 @@ header {
     font-size: 16px;
 }
 
+/* FOOTER */
+
+
+#bot {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 16px;
+    padding: 50px;
+}
+
