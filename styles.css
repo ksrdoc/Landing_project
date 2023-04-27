@@ -187,3 +187,14 @@ header {
     border-radius: 20px;
 }
 
+.cta_left {
+    display: flex;
+    flex-direction: column;
+    color: #F9FAF8;
+}
+
+.cta_header {
+    font-weight: 700;
+    font-size: 20px;
+}
+
